@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content
+  id=""
+  name="Show Me More Trade Offers"
+  author="Chem O`Dun"
+  version="100"
+  date="2025-12-15"
+  save="false"
+  lastupdate=""
+  description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode...">
+  <text language="7"
+    description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode..."></text>
+  <!-- French -->
+  <text language="33"
+    description="Mod pratique d'amélioration de la qualité de vie qui vous permet de voir davantage d'offres commerciales simultanément en mode carte..."></text>
+  <!-- Spanish -->
+  <text language="34"
+    description="Mod práctico de calidad de vida que te permite ver más ofertas comerciales a la vez en el modo mapa..."></text>
+  <!-- Italian -->
+  <text language="39"
+    description="Mod pratico di miglioramento della qualità della vita che ti consente di vedere più offerte commerciali alla volta nella modalità mappa..."></text>
+  <!-- Czech -->
+  <text language="42"
+    description="Praktický mod pro zlepšení komfortu hraní, který vám umožní vidět více obchodních nabídek najednou v režimu mapy..."></text>
+  <!-- English -->
+  <text language="44"
+    description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode..."></text>
+  <!-- Polish -->
+  <text language="48"
+    description="Poręczny mod poprawiający komfort rozgrywki, który pozwala zobaczyć więcej ofert handlowych naraz w trybie mapy..."></text>
+  <!-- German -->
+  <text language="49"
+    description="Praktischer Komfort-Mod, mit dem du im Kartenmodus auf einmal mehr Handelsangebote sehen kannst..."></text>
+  <!-- Portuguese -->
+  <text language="55"
+    description="Mod prático de melhoria da qualidade de vida que permite ver mais ofertas comerciais de uma só vez no modo mapa..."></text>
+  <!-- Japanese -->
+  <text language="81"
+    description="便利な生活品質向上モッドで、マップモードで一度により多くの取引オファーを確認できます..."></text>
+  <!-- Korean -->
+  <text language="82"
+    description="맵 모드에서 한 번에 더 많은 거래 제안을 볼 수 있게 해 주는 편리한 생활 품질 개선 모드입니다..."></text>
+  <!-- Chinese -->
+  <text language="86"
+    description="这是一个实用的生活质量提升模组，可让你在地图模式下一次看到更多贸易报价..."></text>
+  <!-- Bengali -->
+  <text language="88"
+    description="এটি একটি সুবিধাজনক জীবনমান উন্নয়ন মড, যা মানচিত্র মোডে একসঙ্গে আরও বাণিজ্যিক অফার দেখতে সাহায্য করে..."></text>
+  <!-- Turkish -->
+  <text language="90"
+    description="Harita modunda aynı anda daha fazla ticari teklifi görmeni sağlayan kullanışlı bir yaşam kalitesi modu..."></text>
+  <!-- Ukrainian -->
+  <text language="380"
+    description="Зручний мод для покращення якості життя, що дозволяє бачити більше торгових пропозицій одночасно в режимі карти..."></text>
+  <dependency version="800"></dependency>
+  <dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs" version="195"></dependency>
+  <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD" version="803"></dependency>
+</content>
