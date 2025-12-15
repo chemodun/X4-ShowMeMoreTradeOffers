@@ -1,0 +1,66 @@
+[size=140][u]Show Me More Trade Offers[/u][/size]
+
+A handy Quality-of-life mod that lets you see more trade offers at once in Map mode...
+
+[size=130][u]Features[/u][/size]
+[list]
+[*] Simply expand a maximum number of trade offers shown in Map mode from default [b]5[/b] to [b]50[/b].
+[/list]
+[size=130][u]Limitations[/u][/size]
+[list]
+[*] Available only from game version [b]8.00HF3[/b] and newer, due to reliance on [b]Kuertee UI Extensions[/b] mod.
+[/list]
+[size=130][u]Requirements[/u][/size]
+[list]
+[*] [b]X4: Foundations[/b] 8.00HF3 or newer.
+[*] [b]UI Extensions and HUD[/b] by [url=https://next.nexusmods.com/profile/kuertee?gameId=2659]kuertee[/url] to be installed and enabled. Version [b]8.035[/b] and upper is required.
+[list]
+[*] It is available only via the Nexus Mods - [url=https://www.nexusmods.com/x4foundations/mods/552]UI Extensions and HUD[/url]
+[/list]
+[*] [b]Mod Support APIs[/b] by [url=https://next.nexusmods.com/profile/sirnukes?gameId=2659]SirNukes[/url] to be installed and enabled. Version [b]1.95[/b] and upper is required.
+[list]
+[*] It is available via Steam - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2042901274]SirNukes Mod Support APIs[/url]
+[*] Or via the Nexus Mods - [url=https://www.nexusmods.com/x4foundations/mods/503]Mod Support APIs[/url]
+[/list]
+[/list]
+[size=130][u]Installation[/u][/size]
+
+You can download the latest version via Steam client - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3624666582]Show Me More Trade Offers[/url]
+Or you can do it via the Nexus Mods - [url=https://www.nexusmods.com/x4foundations/mods/]Show Me More Trade Offers[/url]
+
+[size=130][u]Usage[/u][/size]
+
+No special actions required. Just open the Map mode and then edit maximum number of trade offers shown in Trade Filters menu/panel.
+[list]
+[*] Trade offers limited by default maximum value:
+[/list]  [spoiler][img]https://raw.githubusercontent.com/chemodun/X4-ShowMeMoreTradeOffers/refs/heads/main/docs/images/trade_offers_with_default_maximum_value.png[/img][/spoiler]
+[list][*] Trade Filters menu with updated maximum value:
+[/list]  [spoiler][img]https://raw.githubusercontent.com/chemodun/X4-ShowMeMoreTradeOffers/refs/heads/main/docs/images/trade_filters_with_updated_maximum_value.png[/img][/spoiler]
+[list][*] Trade offers are restricted to a suitable value, though not the maximum:
+[/list]  [spoiler][img]https://raw.githubusercontent.com/chemodun/X4-ShowMeMoreTradeOffers/refs/heads/main/docs/images/trade_offers_with_new_value.png[/img][/spoiler]
+
+[size=130][u]Video[/u][/size]
+
+[url=https://www.youtube.com/watch?v=ml6-xKt50QA]Video demonstration of the Version 1.00[/url]
+
+[size=130][u]Credits[/u][/size]
+[list]
+[*] Author: Chem O`Dun, on [url=https://next.nexusmods.com/profile/ChemODun/mods?gameId=2659]Nexus Mods[/url] and [url=https://steamcommunity.com/id/chemodun/myworkshopfiles/?appid=392160]Steam Workshop[/url]
+[*] [i]"X4: Foundations"[/i] is a trademark of [url=https://www.egosoft.com]Egosoft[/url].
+[/list]
+[size=130][u]Acknowledgements[/u][/size]
+[list]
+[*] [url=https://www.egosoft.com]EGOSOFT[/url] — for the X series.
+[*] [url=https://next.nexusmods.com/profile/sirnukes?gameId=2659]SirNukes[/url] — for the [b]Mod Support APIs[/b] that power the UI hooks.
+[*] [url=https://next.nexusmods.com/profile/kuertee?gameId=2659]kuertee[/url] — for his exciting [b]UI Extensions and HUD[/b] that makes this extension possible.
+[*] [url=https://next.nexusmods.com/profile/Forleyor?gameId=2659]Forleyor[/url] — for his constant help with understanding the UI modding!
+[/list]
+[size=130][u]Changelog[/u][/size]
+
+[size=125][u][1.00] - 2025-12-15[/u][/size]
+[list]
+[*] Added
+[list]
+[*] Initial public version
+[/list]
+[/list]
