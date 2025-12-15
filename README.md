@@ -8,7 +8,8 @@ A handy Quality-of-life mod that lets you see more trade offers at once in Map m
 
 ## Limitations
 
-- Available only from game version `8.00HF3` and newer, due to reliance on `Kuertee UI Extensions` mod.
+- Available only from game version `8.00HF3` and newer, due to reliance on the latest version of the `Kuertee UI Extensions` mod.
+- Version of the `UI Extensions and HUD` mod by `kuertee` must be `8.035` or newer. It is required to have access to trade layer settings.
 
 ## Requirements
 
@@ -21,8 +22,9 @@ A handy Quality-of-life mod that lets you see more trade offers at once in Map m
 
 ## Installation
 
-You can download the latest version via Steam client - [Show Me More Trade Offers](https://steamcommunity.com/sharedfiles/filedetails/?id=3624666582)
-Or you can do it via the Nexus Mods - [Show Me More Trade Offers](https://www.nexusmods.com/x4foundations/mods/)
+- You can download the latest version via Steam client - [Show Me More Trade Offers](https://steamcommunity.com/sharedfiles/filedetails/?id=3624666582)
+  - Due to absence the `Kuertee UI Extensions` mod on Steam and some limitations of Steam Workshop please be sure that you have installed and enabled the `UI Extensions and HUD` mod by `kuertee` of version `8.035` or newer.
+- Or you can do it via the Nexus Mods - [Show Me More Trade Offers](https://www.nexusmods.com/x4foundations/mods/1910)
 
 ## Usage
 
