@@ -21,8 +21,8 @@ A handy Quality-of-life mod that lets you see more trade offers at once in Map m
 
 ## Installation
 
-You can download the latest version via Steam client - [Stations Trade Config Exchanger](https://steamcommunity.com/sharedfiles/filedetails/?id=)
-Or you can do it via the Nexus Mods - [Stations Trade Config Exchanger](https://www.nexusmods.com/x4foundations/mods/)
+You can download the latest version via Steam client - [Show Me More Trade Offers](https://steamcommunity.com/sharedfiles/filedetails/?id=3624666582)
+Or you can do it via the Nexus Mods - [Show Me More Trade Offers](https://www.nexusmods.com/x4foundations/mods/)
 
 ## Usage
 
