@@ -1,58 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content
-  id=""
+  id="ws_3624666582"
   name="Show Me More Trade Offers"
   author="Chem O`Dun"
   version="100"
   date="2025-12-15"
   save="false"
-  lastupdate=""
-  description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode...">
-  <text language="7"
-    description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode..."></text>
+  lastupdate="1765833871"
+  description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode...&#13;&#10;&#13;&#10;[h2][b]Features[/b][/h2]&#13;&#10;[list]&#13;&#10;[*] Simply expand a maximum number of trade offers shown in Map mode from default [b]5[/b] to [b]50[/b].&#13;&#10;[/list]&#13;&#10;[h2][b]Limitations[/b][/h2]&#13;&#10;[list]&#13;&#10;[*] Available only from game version [b]8.00HF3[/b] and newer, due to reliance on the latest version of the [b]UI Extensions and HUD[/b] mod.&#13;&#10;[*] Version of the [b]UI Extensions and HUD[/b] mod by [b]kuertee[/b] must be [b]8.035[/b] or newer. It is required to have access to trade layer settings.&#13;&#10;[/list]&#13;&#10;[h2][b]Requirements[/b][/h2]&#13;&#10;[list]&#13;&#10;[*] [b]X4: Foundations[/b] 8.00HF3 or newer.&#13;&#10;[*] [b]UI Extensions and HUD[/b] by [url=https://next.nexusmods.com/profile/kuertee?gameId=2659]kuertee[/url] to be installed and enabled. Version [b]8.035[/b] and upper is required.&#13;&#10;[list]&#13;&#10;[*] It is available only via the Nexus Mods - [url=https://www.nexusmods.com/x4foundations/mods/552]UI Extensions and HUD[/url]&#13;&#10;[/list]&#13;&#10;[*] [b]Mod Support APIs[/b] by [url=https://next.nexusmods.com/profile/sirnukes?gameId=2659]SirNukes[/url] to be installed and enabled. Version [b]1.95[/b] and upper is required.&#13;&#10;[list]&#13;&#10;[*] It is available via Steam - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2042901274]SirNukes Mod Support APIs[/url]&#13;&#10;[*] Or via the Nexus Mods - [url=https://www.nexusmods.com/x4foundations/mods/503]Mod Support APIs[/url]&#13;&#10;[/list]&#13;&#10;[/list]&#13;&#10;[h2][b]Installation[/b][/h2]&#13;&#10;[list]&#13;&#10;[*] You can download the latest version via Steam client - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3624666582]Show Me More Trade Offers[/url]&#13;&#10;[list]&#13;&#10;[*] Due to absence the [b]UI Extensions and HUD[/b] mod on Steam and some limitations of Steam Workshop please be sure that you have installed and enabled the [b]UI Extensions and HUD[/b] mod by [b]kuertee[/b] of version [b]8.035[/b] or newer.&#13;&#10;[/list]&#13;&#10;[*] Or you can do it via the Nexus Mods - [url=https://www.nexusmods.com/x4foundations/mods/1910]Show Me More Trade Offers[/url]&#13;&#10;[/list]&#13;&#10;[h2][b]Usage[/b][/h2]&#13;&#10;&#13;&#10;No special actions required. Just open the Map mode and then edit maximum number of trade offers shown in Trade Filters menu/panel.&#13;&#10;[list]&#13;&#10;[*] Trade offers limited by default maximum value:&#13;&#10;[/list]  [img]https://raw.githubusercontent.com/chemodun/X4-ShowMeMoreTradeOffers/refs/heads/main/docs/images/trade_offers_with_default_maximum_value.png[/img]&#13;&#10;[list][*] Trade Filters menu with updated maximum value:&#13;&#10;[/list]  [img]https://raw.githubusercontent.com/chemodun/X4-ShowMeMoreTradeOffers/refs/heads/main/docs/images/trade_filters_with_updated_maximum_value.png[/img]&#13;&#10;[list][*] Trade offers are restricted to a suitable value, though not the maximum:&#13;&#10;[/list]  [img]https://raw.githubusercontent.com/chemodun/X4-ShowMeMoreTradeOffers/refs/heads/main/docs/images/trade_offers_with_new_value.png[/img]&#13;&#10;&#13;&#10;[h2][b]Video[/b][/h2]&#13;&#10;&#13;&#10;Video demonstration of the Version 1.00&#13;&#10;[previewyoutube=ml6-xKt50QA;full][/previewyoutube]&#13;&#10;&#13;&#10;[h2][b]Credits[/b][/h2]&#13;&#10;[list]&#13;&#10;[*] Author: Chem O`Dun, on [url=https://next.nexusmods.com/profile/ChemODun/mods?gameId=2659]Nexus Mods[/url] and [url=https://steamcommunity.com/id/chemodun/myworkshopfiles/?appid=392160]Steam Workshop[/url]&#13;&#10;[*] [i]&quot;X4: Foundations&quot;[/i] is a trademark of [url=https://www.egosoft.com]Egosoft[/url].&#13;&#10;[/list]&#13;&#10;[h2][b]Acknowledgements[/b][/h2]&#13;&#10;[list]&#13;&#10;[*] [url=https://www.egosoft.com]EGOSOFT[/url] — for the X series.&#13;&#10;[*] [url=https://next.nexusmods.com/profile/sirnukes?gameId=2659]SirNukes[/url] — for the [b]Mod Support APIs[/b] that power the UI hooks.&#13;&#10;[*] [url=https://next.nexusmods.com/profile/kuertee?gameId=2659]kuertee[/url] — for his exciting [b]UI Extensions and HUD[/b] that makes this extension possible.&#13;&#10;[*] [url=https://next.nexusmods.com/profile/Forleyor?gameId=2659]Forleyor[/url] — for his constant help with understanding the UI modding!&#13;&#10;[/list]">
+  <text language="7" description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode..."></text>
   <!-- French -->
   <text language="33"
     description="Mod pratique d'amélioration de la qualité de vie qui vous permet de voir davantage d'offres commerciales simultanément en mode carte..."></text>
   <!-- Spanish -->
-  <text language="34"
-    description="Mod práctico de calidad de vida que te permite ver más ofertas comerciales a la vez en el modo mapa..."></text>
+  <text language="34" description="Mod práctico de calidad de vida que te permite ver más ofertas comerciales a la vez en el modo mapa..."></text>
   <!-- Italian -->
   <text language="39"
     description="Mod pratico di miglioramento della qualità della vita che ti consente di vedere più offerte commerciali alla volta nella modalità mappa..."></text>
   <!-- Czech -->
-  <text language="42"
-    description="Praktický mod pro zlepšení komfortu hraní, který vám umožní vidět více obchodních nabídek najednou v režimu mapy..."></text>
+  <text language="42" description="Praktický mod pro zlepšení komfortu hraní, který vám umožní vidět více obchodních nabídek najednou v režimu mapy..."></text>
   <!-- English -->
-  <text language="44"
-    description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode..."></text>
+  <text language="44" description="A handy Quality-of-life mod that lets you see more trade offers at once in Map mode..."></text>
   <!-- Polish -->
-  <text language="48"
-    description="Poręczny mod poprawiający komfort rozgrywki, który pozwala zobaczyć więcej ofert handlowych naraz w trybie mapy..."></text>
+  <text language="48" description="Poręczny mod poprawiający komfort rozgrywki, który pozwala zobaczyć więcej ofert handlowych naraz w trybie mapy..."></text>
   <!-- German -->
-  <text language="49"
-    description="Praktischer Komfort-Mod, mit dem du im Kartenmodus auf einmal mehr Handelsangebote sehen kannst..."></text>
+  <text language="49" description="Praktischer Komfort-Mod, mit dem du im Kartenmodus auf einmal mehr Handelsangebote sehen kannst..."></text>
   <!-- Portuguese -->
-  <text language="55"
-    description="Mod prático de melhoria da qualidade de vida que permite ver mais ofertas comerciais de uma só vez no modo mapa..."></text>
+  <text language="55" description="Mod prático de melhoria da qualidade de vida que permite ver mais ofertas comerciais de uma só vez no modo mapa..."></text>
   <!-- Japanese -->
-  <text language="81"
-    description="便利な生活品質向上モッドで、マップモードで一度により多くの取引オファーを確認できます..."></text>
+  <text language="81" description="便利な生活品質向上モッドで、マップモードで一度により多くの取引オファーを確認できます..."></text>
   <!-- Korean -->
-  <text language="82"
-    description="맵 모드에서 한 번에 더 많은 거래 제안을 볼 수 있게 해 주는 편리한 생활 품질 개선 모드입니다..."></text>
+  <text language="82" description="맵 모드에서 한 번에 더 많은 거래 제안을 볼 수 있게 해 주는 편리한 생활 품질 개선 모드입니다..."></text>
   <!-- Chinese -->
-  <text language="86"
-    description="这是一个实用的生活质量提升模组，可让你在地图模式下一次看到更多贸易报价..."></text>
+  <text language="86" description="这是一个实用的生活质量提升模组，可让你在地图模式下一次看到更多贸易报价..."></text>
   <!-- Bengali -->
-  <text language="88"
-    description="এটি একটি সুবিধাজনক জীবনমান উন্নয়ন মড, যা মানচিত্র মোডে একসঙ্গে আরও বাণিজ্যিক অফার দেখতে সাহায্য করে..."></text>
+  <text language="88" description="এটি একটি সুবিধাজনক জীবনমান উন্নয়ন মড, যা মানচিত্র মোডে একসঙ্গে আরও বাণিজ্যিক অফার দেখতে সাহায্য করে..."></text>
   <!-- Turkish -->
-  <text language="90"
-    description="Harita modunda aynı anda daha fazla ticari teklifi görmeni sağlayan kullanışlı bir yaşam kalitesi modu..."></text>
+  <text language="90" description="Harita modunda aynı anda daha fazla ticari teklifi görmeni sağlayan kullanışlı bir yaşam kalitesi modu..."></text>
   <!-- Ukrainian -->
-  <text language="380"
-    description="Зручний мод для покращення якості життя, що дозволяє бачити більше торгових пропозицій одночасно в режимі карти..."></text>
+  <text language="380" description="Зручний мод для покращення якості життя, що дозволяє бачити більше торгових пропозицій одночасно в режимі карти..."></text>
   <dependency version="800"></dependency>
   <dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs" version="195"></dependency>
-  <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD" version="803"></dependency>
+  <dependency id="kuerteeUIExtensionsAndHUD" optional="true" name="kuertee UI Extensions and HUD" version="803"></dependency>
 </content>
