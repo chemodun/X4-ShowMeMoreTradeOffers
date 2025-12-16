@@ -41,5 +41,5 @@
   <text language="380" description="Зручний мод для покращення якості життя, що дозволяє бачити більше торгових пропозицій одночасно в режимі карти..."></text>
   <dependency version="800"></dependency>
   <dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs" version="195"></dependency>
-  <dependency id="kuerteeUIExtensionsAndHUD" optional="true" name="kuertee UI Extensions and HUD" version="803"></dependency>
+  <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD" version="803"></dependency>
 </content>
